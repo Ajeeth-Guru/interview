@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": "123",
+      "name": "Ajeeth",
+      "age": "20",
+      "mail": "ajeeth@gmail.com",
+      "gender": "male",
+      "password": "12345"
+    },
+    {
+      "id": "e8a8",
+      "name": "Tharun S",
+      "mail": "tharun@gmail.com",
+      "age": "20",
+      "gender": "",
+      "password": "12345"
+    },
+    {
+      "id": "33ac",
+      "name": "Soaratai Mathi",
+      "mail": "s@gmail.com",
+      "age": "20",
+      "gender": "Female",
+      "password": "123"
+    }
+  ]
+}

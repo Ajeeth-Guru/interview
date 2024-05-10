@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+.nav-item{
+padding: 16px 32px;
+height: 50px;
+width: 100%;
+background-color: black;
+}
+.nav-item a{
+  text-decoration:none ;
+  color: azure ;
+  margin-right: 16px;
+}
+.nav-item a.active{
+  font-weight: 500;
+  background-color: darkblue;
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid white;
+}
